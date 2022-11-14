@@ -1,15 +1,11 @@
-## created by cra
+***Technology in use!***
+> React <br>
+> Typescript <br>
+> Webpack <br>
+> Babel <br>
+> Css <br>
+> Cra <br>
 
-### Available Scripts -
-#### `yarn start`
-#### `yarn test`
-#### `yarn build`
-#### `yarn eject`
+<br>
 
-### Technology in use!
-#### React
-#### Typescript
-#### webpack
-#### Babel
-#### css
-#### cra
+<p align="center">created by cra!</p>
